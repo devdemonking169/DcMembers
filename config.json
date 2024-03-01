@@ -1,12 +1,12 @@
 {
-    "captcha_key": "", 
-    "invite": "",
+    "captcha_key": "0d71e9dac2b55b3f834f93eaa9b7001a", 
+    "invite": "BhwSRS9y",
     "threads": 69,
     "proxy_scraper": "y",
 
     "online_tokens": "y",
 
     "join_voice": "n",
-    "channel_id": "",
-    "server_id": ""
+    "channel_id": "1213033697771782146",
+    "server_id": "1213033696261570631"
 }
